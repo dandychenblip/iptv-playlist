@@ -195,8 +195,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -215,42 +213,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -447,8 +445,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -467,42 +463,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -699,8 +695,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -719,42 +713,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -951,8 +945,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -971,42 +963,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -1203,8 +1195,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -1223,42 +1213,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -1455,8 +1445,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -1475,42 +1463,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -1707,8 +1695,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -1727,42 +1713,42 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 group-title="",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="",CGTN纪录
@@ -1959,8 +1945,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="",Siping TV
@@ -1979,39 +1963,39 @@ http://110.153.180.106:55555/out_2/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="",白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="",CGTN Global Biz (1080p)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 group-title="",Channel 8 (720p)
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 group-title="",DHA (720p)
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="",NTD TV (1080p)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
