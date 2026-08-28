@@ -1,82 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -191,8 +113,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -233,14 +155,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -249,84 +169,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -441,8 +379,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -483,14 +421,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -499,84 +435,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -691,8 +645,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -733,14 +687,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -749,84 +701,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -941,8 +911,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -983,14 +953,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -999,84 +967,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -1191,8 +1177,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -1233,14 +1219,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -1249,84 +1233,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -1441,8 +1443,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -1483,14 +1485,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -1499,84 +1499,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -1691,8 +1709,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -1733,14 +1751,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -1749,84 +1765,102 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="",春晚1983
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="",春晚1984
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="",春晚1985
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="",春晚1988
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="",春晚1989
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="",春晚1996
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="",春晚2003
-https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="",春晚2010
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="",春晚2011
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="",春晚2013
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="",春晚2015
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="",春晚2017
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="",春晚2018
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="",春晚2020
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="",春晚2025
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="",春晚2026
-https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="",Angel TV Chinese (720p)
@@ -1941,8 +1975,8 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 group-title="",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="",QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="",QTV-6
@@ -1983,14 +2017,12 @@ https://cdn.qd.je/163189/ch8
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 group-title="",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="",DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 group-title="",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 group-title="",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 group-title="",Love Nature (1080p)
@@ -1999,3 +2031,99 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="",RTHK TV 31 (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 group-title="",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Belarus-5 HD (1080p)
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 group-title="",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 group-title="",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 group-title="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 group-title="",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 group-title="",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 group-title="",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
