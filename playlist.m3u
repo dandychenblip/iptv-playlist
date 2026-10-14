@@ -150,32 +150,32 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="央视",CCTV-Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-Health
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视",CCTV-WorldGeography
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视",CCTV-Women'sFashion
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视",CCTV-16奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-TheFirstTheater
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-Women'sFashion
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-StormTheater
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-StormMusic
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视",CCTV-Golf&Tennis
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-Weapon&Technology
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-8K超高清
-http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="央视",CCTV-Health
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视",CCTV-CultureofQuality
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视",CCTV-StormFootball
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视",CCTV-NostalgiaTheater
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV-WorldGeography
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视",CCTV-StormTheater
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视",CCTV-StormMusic
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视",CCTV-8K超高清
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="央视",CCTV-Weapon&Technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视",东方卫视
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
 http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
@@ -266,8 +266,8 @@ http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000018/m
 http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000018/main.m3u8?IASHttpSessionId=OTT
 http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000018/main.m3u8?IASHttpSessionId=OTT
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000018/main.m3u8?IASHttpSessionId=OTT
-http://110.153.180.106:55555/out_3/index.m3u8
 http://110.153.180.106:55555/out_2/index.m3u8
+http://110.153.180.106:55555/out_3/index.m3u8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000043/main.m3u8?IASHttpSessionId=OTT
@@ -355,8 +355,8 @@ http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000068/m
 http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="卫视",TVB翡翠台
-http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 group-title="卫视",海峡卫视
 http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 #EXTINF:-1 group-title="地方台",北京台
@@ -456,20 +456,20 @@ http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000049/m
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000049/main.m3u8?IASHttpSessionId=OTT
 http://183.215.102.57:8089/180000001001/00000000000000020000000000182540/main.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047430/index.m3u8
-#EXTINF:-1 group-title="地方台",DongguanComprehensiveNews
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 group-title="地方台",GuangxiVariety&Travel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方台",Guangzhou
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="地方台",DongguanComprehensiveNews
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 group-title="地方台",Kangba
 http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="地方台",Siping
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 group-title="地方台",LanzhouCulture&Tourism
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 group-title="地方台",LanzhouComprehensiveNews
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
-#EXTINF:-1 group-title="地方台",Siping
-http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 group-title="地方台",Tonghua
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 group-title="电影",HarbinMovie
@@ -505,11 +505,11 @@ http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000039/m
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
 http://183.215.102.57:8089/180000001001/00000001000000000007000000001247/main.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8
+#EXTINF:-1 group-title="纪录片",ChinaTravel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 group-title="纪录片",LoveNature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 group-title="纪录片",ChinaTravel
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 group-title="新闻",长沙新闻
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000027/main.m3u8?IASHttpSessionId=OTT
 http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000027/main.m3u8?IASHttpSessionId=OTT
@@ -525,40 +525,42 @@ http://183.215.102.57:8089/180000001001/00000000000000020000000000182539/main.m3
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u8
 #EXTINF:-1 group-title="新闻",AnshunComprehensiveNews
 https://hplayer1.juyun.tv/camera/154379194.m3u8
-#EXTINF:-1 group-title="新闻",ChuxiongNews
-http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 group-title="新闻",ChifengComprehensiveNewsChanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 group-title="新闻",ChuxiongNews
+http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 group-title="新闻",HarbinComprehensiveNews
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 group-title="新闻",VoATVChina
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVB翡翠台
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",RTHKTV31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="港澳台",TaiwanIndigenous
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS欢乐台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",DAAI
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 group-title="港澳台",RTHKTV31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 group-title="港澳台",TVB翡翠台
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",东森超视
 http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",中视
 http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",东森美洲卫视
 http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",中天电视
-http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻台
-http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",华视新闻
-http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻
-http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",东森美洲
 http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",中天电视
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",华视新闻
+http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻台
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 #EXTINF:-1 group-title="其他",IPTV古装剧场
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="其他",IPTV家庭剧场
@@ -607,15 +609,15 @@ http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000009/m
 http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000009/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="其他",金色夕阳
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196971/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="其他",Baicheng
-https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",ChaozhouPublic
 http://113.64.146.48:1688/hls/4/index.m3u8
+#EXTINF:-1 group-title="其他",Baicheng
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",Bread
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="其他",LLBNTVChinese
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="其他",Dali
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="其他",WX
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="其他",Dali
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
